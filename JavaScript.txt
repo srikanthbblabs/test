@@ -1,0 +1,65 @@
+document.getElementById("demo").innerHTML = "Hello JavaScript"	-- can change HTML content. JavaScript accepts both double and single quotes.
+
+<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button> -- In this case JavaScript changes the src (source) attribute of an image.
+
+document.getElementById("demo").style.fontSize = "35px"; -- JavaScript Can Change HTML Styles (CSS)
+
+document.getElementById('demo').style.display='none'"  -- JavaScript can hide HTML elements
+
+"document.getElementById('demo').style.display='block'" 	-- JavaScript can show hidden HTML elements
+
+ JavaScript code must be inserted between <script> and </script> tags.
+ 
+ -- JavaScript outputs --
+		Writing into an HTML element, using innerHTML.
+		Writing into the HTML output using document.write().
+		Writing into an alert box, using window.alert().
+		Writing into the browser console, using console.log().
+
+-- JavaScript Values --
+
+		The JavaScript syntax defines two types of values: Fixed values and variable values.
+
+		Fixed values are called literals. Variable values are called variables.\
+
+		Hyphens are not allowed in JavaScript. They are reserved for subtractions.
+
+JavaScript identifiers are case-sensitive.
+
+-- String Methods and Properties --
+
+		var txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+		var sln = txt.length;
+
+		var str = "Please locate where 'locate' occurs!";
+		var pos = str.indexOf("locate");
+		Try it Yourself »
+
+		var str = "Please locate where 'locate' occurs!";
+		var pos = str.lastIndexOf("locate");
+
+		var str = "Please locate where 'locate' occurs!";
+		var pos = str.indexOf("locate",15);
+
+		var str = "Please locate where 'locate' occurs!";
+		var pos = str.search("locate");
+
+		var str = "Apple, Banana, Kiwi";
+		var res = str.slice(7, 13);
+
+		var str = "Apple, Banana, Kiwi";
+		var res = str.slice(-12, -6);
+
+		var res = str.slice(7);
+
+		var res = str.slice(-12);
+
+		var str = "Apple, Banana, Kiwi";
+		var res = str.substring(7, 13);
+
+		str = "Please visit Microsoft!";
+		var n = str.replace("Microsoft", "W3Schools");
+
+-- JavaScript Math Object --
+	
+	
