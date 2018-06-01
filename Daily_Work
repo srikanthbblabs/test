@@ -48,20 +48,79 @@
 		- Hashing and HMAC
 		- Encryption & Decryption
 		- What is Express.js
-		- Recommendations
+		
+
+
+-------  11-05-2018	-------------
+
+		- Recombee Documentation
+		- Content-based Recommendation (TF-IDF)
+		- Created signUp and Login pages with nodejs and mysql
+		
+
+---------	14-05-2018	-----------
+
+		- Simple websites with nodejs, Mysql and express
+		
+------- 15-05-2018	---------------
+		
+		- Understood python script
+		- revised python with mysql
+		- Jquery signup validations videos
+
+-------- 16-05-2018	---------------
+
+		- worked on python
+
+-------- 17-05-2018	---------------
+		
+		- Generated images with python script
+
+
+-------	18-05-2018	------------
+		
+		- created sample file with item_detailes
+		- tried to execute but didn't get
+
+------	19-05-2018	------------
+		
+		- Added Items to recombee dashboard
+
+------	21-05-2018 ----------------
+		- stored all the properties and interactions
+		- relations among them
+		- Generated recommendations but filter not worked
+
+------- 22-05-2018 	------------
+		- worked on filtering and boosting
+		- with filter recommendations generated
+		
+-------	23-05-2018	------------
+		- generated items-to-item and items-to-user recommendations with static inputs.
+		
+------	24-05-2018	----------
+		- Nodejs basics in the morning session
+		- afternoon started doing one small eCommers application
+
+------	25-05-2018	----------
+		- add to cart function completed
+		
+------	28-05-2018	------------
+		- nodejs documentation
+
+-----	29-05-2018	-----------
+		- added update property to simple signup/login website(static )
+		- read about sessions
+		
+------	30-05-2018	-----------
+		- replaced form with jquery and ajax
+		- dynamically updated database value
+
+------	31-05-2018	-------
+		- read sessions and cookies
+		- learnt about github
+------	01-06-2018	--------
 		- 
-		- 
-		- 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 		
 		
